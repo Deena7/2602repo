@@ -35,3 +35,6 @@ printPattern(n);
 }  
 } 
 
+
+
+UPDATED LINE IN JAVA
